@@ -1,0 +1,40 @@
+SUBJ NO. COURSE TITLE CRED GRD PTS R
+
+ 
+
+TRANSFER CREDIT ACCEPTED BY THE INSTITUTION:
+
+2011-15 Am. Council On Education
+BSA 120 Principles of Supervision 3.00 T
+CSA 110 Intro Computer Info System 3.00 T
+WLD 112 Basic Welding I 2.00 T
+Ehrs: 8.00 GPA-Hrs: 0.00 QPts: 0.00 GPA: 0.00
+INSTITUTION CREDIT:
+Spring 2017
+com 100 Introduction to Human 3.00 A 12.00
+Communication
+ENG 101 College Composition I 3.00 A 12.00
+MAT 092 Beginning Algebra 3.00 A 12.00
+PSY 101 Introductory Psychology 3.00 A 12.00
+Ehrs: 12.00 GPA-Hrs: 12.00 OQPts: 48.00 GPA: 4.00
+Fall 2017
+ANT 102 Introduction to Cultural 3.00 F 0.00
+Anthropology
+ENG 102 College Composition II 3.00 F 0.00 E
+ENG 140 Reading the World: 0.00 Y 0.00
+MAT 122 Intermediate Algebra 3.00 U 0.00
+Ehrs: 0.00 GPA-Hrs: 3.00 QPts: 0.00 GPA: 0.00
+Spring 2019
+ENG 102 College Composition II 3.00 B 9.00 I
+HUM 101 Introduction to Popular 3.00 C 6.00
+Culture
+MAT 142 College Mathematics 3.00 A 12.00
+soc 140 Sociology of Intimate 3.00 B 9.00
+Relationships and Family
+Ehrs: 12.00 GPA-Hrs: 12.00 QPts: 36.00 GPA: 3.00
+Fall 2019
+BIO 100 Biology Concepts 4.00 B 12.00
+CNT 100 Computer Networking 3.00 A 12.00
+
+Technologies I
+CONTINUED ON NEXT
